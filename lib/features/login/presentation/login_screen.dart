@@ -47,10 +47,11 @@ class _LoginScreenState extends State<LoginScreen> {
     return Scaffold(
       backgroundColor: const Color(0xFFD6E2EA),
       body: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          const SizedBox(
-            height: 32,
-          ),
+          // const SizedBox(
+          //   height: 64,
+          // ),
           Text(
             "Rive + Flutter \n Animated Guardian \n Polar Bear",
             style: Theme.of(context).textTheme.headlineMedium,

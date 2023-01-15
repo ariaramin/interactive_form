@@ -1,6 +1,6 @@
 # interactive_form
 
-A new Flutter project.
+![image](preview/interactive_form.png)
 
 ## Getting Started
 
